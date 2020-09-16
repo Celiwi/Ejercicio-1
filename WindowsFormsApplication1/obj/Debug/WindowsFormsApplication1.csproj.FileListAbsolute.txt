@@ -7,3 +7,12 @@ c:\users\david\documents\visual studio 2015\Projects\WindowsFormsApplication1\Wi
 c:\users\david\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 c:\users\david\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
 C:\Users\David\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\Ejercicio-1-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\Ejercicio-1-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\Ejercicio-1-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Ejercicio-1-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\Ejercicio-1-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Ejercicio-1-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\Ejercicio-1-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\Ejercicio-1-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\Ejercicio-1-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
